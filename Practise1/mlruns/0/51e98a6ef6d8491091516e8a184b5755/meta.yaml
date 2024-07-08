@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/DATA_SCIENCE/MLOPS/MLFLOW/mlruns/0/51e98a6ef6d8491091516e8a184b5755/artifacts
+end_time: 1718451702543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51e98a6ef6d8491091516e8a184b5755
+run_name: capable-donkey-524
+run_uuid: 51e98a6ef6d8491091516e8a184b5755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718451702333
+status: 3
+tags: []
+user_id: rajkr

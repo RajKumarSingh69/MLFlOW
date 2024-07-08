@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/DATA_SCIENCE/MLOPS/MLFLOW/mlruns/0/0222818a1fd542849270c43a01f6336c/artifacts
+end_time: 1718451671525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0222818a1fd542849270c43a01f6336c
+run_name: selective-wasp-527
+run_uuid: 0222818a1fd542849270c43a01f6336c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718451671394
+status: 3
+tags: []
+user_id: rajkr
